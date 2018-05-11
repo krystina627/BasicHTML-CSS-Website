@@ -1,0 +1,100 @@
+body {height: 100% ;margin 0;
+      font-family: Verdana, Arial, sans-serif;  }
+
+#nav {text-align: center;
+      float: left;
+      width: 150px;
+      font-weight: bold;
+      margin-top: 0px;
+      padding-top: 0px;
+      }
+#wrapper h1 {margin:auto; padding:0px; color: #008000;}
+
+#nav a {text-decoration: none;
+        padding-bottom: 15px;
+      display:block; background-color: #008000;
+      padding: 10px; border-bottom: 1px solid #FFFFFF;}
+
+#nav a:link{color: #FFFFFF;}
+
+#nav a:hover{color: #000000;}
+
+#nav a:visited{color: #1E90FF;}
+
+#nav ul {list-style-type: none;}
+
+#footer {background-color: #424242;
+         color: #ffffff;
+         font-size: .60em;
+         padding-top: 20px;
+         padding-bottom: 20px;
+         font-style: italic;
+         text-align: center;
+         clear: both;}
+
+#footer a {color: #ffffff;}
+
+#footer a:link{color: #ffffff;}
+
+#footer a:hover{color: #000000;}
+
+#footer a:visited{color: #A0A0A0;}
+
+#wrapper {margin: 0 auto;
+          width:100%;
+          min-width: 960px;
+          background-color: #008000;
+          padding-top: 0;}
+
+
+#content {margin-top: 0;
+          overflow: auto;
+          padding: 10px 20px;
+          margin-left: 225px;
+          background-color: #ffffff;
+        }
+
+#content dt {color:#1E90FF; font-weight: bold;}
+
+#content a{color: #1E90FF;}
+
+#linkHeader {color: #008000;}
+
+.floatright {float: right;
+            padding-left: 20px;}
+
+.floatleft {foat: left;
+            padding-right: 20px;
+            padding-bottom: 20px;}
+.clear {clear: left;}
+.details {padding-left: 20%;
+          padding-right: 20%;}
+
+h3 {color: #1E90FF;}
+
+img {border-style: none;      }
+
+#header {background-color:  #FFFFFF;
+          text-align: center;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+      }
+
+
+table.vegetable {text-align: center; margin:auto;}
+table.vegetable td {padding:20px; padding-top: 0px;}
+table.vegetable th {color:#008000; padding-bottom:20px;}
+
+table.donate td {padding: 25px; padding-top: 0px;}
+table.donate th {color: #008000; text-decoration: underline;}
+
+table.volunteer td {padding: 25px; padding-top: 0px;}
+table.volunteer th{color: #008000; text-decoration: underline;}
+
+table.flower td {padding:5px;}
+table.flower th {color: #008000; padding-bottom: 5px;}
+
+table.tree td {padding:5px;}
+table.tree th {color: #008000; padding-bottom: 5px;}
+
+.boldText {font-weight: bold;}
